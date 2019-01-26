@@ -1,5 +1,4 @@
 # Title: Die essenzielle Dynamik der Mitochondrien
-<!-- username: admin -->
 <!-- type: published -->
 <!-- date: 2018-06-12 22:00:00 -->
 
