@@ -5,7 +5,6 @@ Mitochondrien sind nicht – wie lange geglaubt - statische Strukturen, sondern 
 
 Diese Befunde können bei der Entwicklung von therapeutischen Strategien eine Rolle spielen, zum Beispiel für Erkrankungen, bei denen sowohl Störungen der inneren Uhr als auch eine beeinträchtigte mitochondriale Funktion eine Rolle spielen wie bei Alzheimer. Im Rahmen des Vortrages von Prof. Anne Eckert soll die Schlüsselrolle der Mitochondrien bei Hirnalterung und Demenz sowie die Bedeutung unserer inneren Uhr vor allem mit molekulargenetischen Methoden aufgezeigt werden.
 
-
 <!-- description: Unser Gehirn benötigt als Höchstleistungsorgan rund um die Uhr Energie, die von Mitochondrien -->
 <!-- category: Vorträge -->
 <!-- tags: Mitochondrium, Gehirn, Neurodegeneration, Biologie -->
