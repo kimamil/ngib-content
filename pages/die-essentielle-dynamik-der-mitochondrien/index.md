@@ -11,9 +11,3 @@ Diese Befunde können bei der Entwicklung von therapeutischen Strategien eine Ro
 <!-- category: Vorträge -->
 <!-- tags: Mitochondrium, Gehirn, Neurodegeneration, Biologie -->
 <!-- coverImage: http://www.ngib.ch/typo3temp/focuscrop/6a2a8f95f9bf21ac08deafaec27b335ed658c8d9-fp-8-3-0-0.png -->
-
-<!-- speaker: Prof. Dr. Anne Eckert -->
-<!-- affiliation: Psychiatrische Kliniken, Universität Basel -->
-<!-- eventdate: 2018-12-06 -->
-<!-- eventtime: 18:30 - 20:00 -->
-<!-- location: Aula des Naturhistorischen Museums Basel, Augustinergasse 2 -->

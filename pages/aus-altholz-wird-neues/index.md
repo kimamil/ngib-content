@@ -10,9 +10,3 @@ Was genau flüssige Salze sind, wie sich aus den Holzbestandteilen Platikbecher,
 <!-- category: Vorträge -->
 <!-- tags: Holz, Chemie, Salz -->
 <!-- coverImage: http://www.ngib.ch/typo3temp/focuscrop/bd4e417e6bdd1241758b9ec29662e86b3e39b0fd-fp-8-3-0-0.png -->
-
-<!-- speaker: Dr. Florence Gschwend -->
-<!-- affiliation: Imperial College, London -->
-<!-- eventdate: 2018-11-22 -->
-<!-- eventtime: 18:30 - 20:00 -->
-<!-- location: Aula des Naturhistorischen Museums Basel, Augustinergasse 2 -->
