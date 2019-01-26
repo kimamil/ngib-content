@@ -6,8 +6,13 @@ Mitochondrien sind nicht – wie lange geglaubt - statische Strukturen, sondern 
 Diese Befunde können bei der Entwicklung von therapeutischen Strategien eine Rolle spielen, zum Beispiel für Erkrankungen, bei denen sowohl Störungen der inneren Uhr als auch eine beeinträchtigte mitochondriale Funktion eine Rolle spielen wie bei Alzheimer. Im Rahmen des Vortrages von Prof. Anne Eckert soll die Schlüsselrolle der Mitochondrien bei Hirnalterung und Demenz sowie die Bedeutung unserer inneren Uhr vor allem mit molekulargenetischen Methoden aufgezeigt werden.
 
 <!-- type: published -->
-<!-- date: 2018-12-06 22:00:00 -->
 <!-- description: Unser Gehirn benötigt als Höchstleistungsorgan rund um die Uhr Energie, die von Mitochondrien -->
 <!-- category: Vorträge -->
 <!-- tags: Mitochondrium, Gehirn, Neurodegeneration, Biologie -->
 <!-- coverImage: http://www.ngib.ch/typo3temp/focuscrop/6a2a8f95f9bf21ac08deafaec27b335ed658c8d9-fp-8-3-0-0.png -->
+
+<!-- speaker: Prof. Dr. Anne Eckert -->
+<!-- affiliation: Psychiatrische Kliniken, Universität Basel -->
+<!-- eventdate: 2018-12-06 -->
+<!-- eventtime: 18:30 - 20:00 -->
+<!-- location: Aula des Naturhistorischen Museums Basel, Augustinergasse 2 -->
