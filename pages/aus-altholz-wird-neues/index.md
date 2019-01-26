@@ -1,10 +1,8 @@
 # Aus Altholz wird Neues - Die erneuerbare Chemie von flüssigen Salzen
-
 <!-- description: Was steckt so alles im Altholz und was kann man daraus noch alles machen? -->
 <!-- category: Vorträge -->
 <!-- tags: Holz, Chemie, Salz -->
 <!-- coverImage: http://www.ngib.ch/typo3temp/focuscrop/bd4e417e6bdd1241758b9ec29662e86b3e39b0fd-fp-8-3-0-0.png -->
-
 <!-- speaker: Dr. Florence Gschwend -->
 <!-- affiliation: Imperial College, London -->
 <!-- eventdate: 2018-11-22 -->
