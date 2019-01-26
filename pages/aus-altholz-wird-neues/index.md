@@ -8,7 +8,7 @@
 <!-- eventdate: 2018-11-22 -->
 <!-- eventtime: 18:30 - 20:00 -->
 <!-- location: Aula des Naturhistorischen Museums Basel, Augustinergasse 2 -->
-<!-- description: Was steckt so alles im Altholz und was kann man daraus noch alles machen? Mit dieser Frage beschäftigt sich Frau Dr. Gschwend am Imperial College in London. Sie hat einen chemischen Prozess entwickelt, der mit Hilfe von flüssigen Salzen Holzbestandteile trennt und gleichzeitig Schwermetalle von Holzschutzmitteln herauslöst und wiedergewinnt. Was genau flüssige Salze sind und wie das Verfahren -->
+<!-- description: Was steckt so alles im Altholz und was kann man daraus noch alles machen? -->
 <!-- category: Vorträge -->
 <!-- tags: Holz, Chemie, Salz -->
 <!-- coverImage: http://www.ngib.ch/typo3temp/focuscrop/bd4e417e6bdd1241758b9ec29662e86b3e39b0fd-fp-8-3-0-0.png -->

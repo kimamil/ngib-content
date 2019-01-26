@@ -1,13 +1,13 @@
-# Title: Die essenzielle Dynamik der Mitochondrien
+# Die essenzielle Dynamik der Mitochondrien
 <!-- type: published -->
-<!-- date: 2018-06-12 22:00:00 -->
+<!-- date: 2018-12-06 22:00:00 -->
 
 <!-- speaker: Prof. Dr. Anne Eckert -->
 <!-- affiliation: Psychiatrische Kliniken, Universität Basel -->
-<!-- eventdate: 2018-06-12 -->
+<!-- eventdate: 2018-12-06 -->
 <!-- eventtime: 18:30 - 20:00 -->
 <!-- location: Aula des Naturhistorischen Museums Basel, Augustinergasse 2 -->
-<!-- description: Unser Gehirn benötigt als Höchstleistungsorgan rund um die Uhr Energie, die von Mitochondrien, den Kraftwerken unserer Zellen, geliefert werden. Hirnzellen weisen eine der höchsten Mitochondriendichten auf. Vieles weist darauf hin, dass eine mitochondriale Dysfunktion bei der Hirnalterung und bei neurodegenerativen Erkrankungen eine Rolle spielt. -->
+<!-- description: Unser Gehirn benötigt als Höchstleistungsorgan rund um die Uhr Energie, die von Mitochondrien -->
 <!-- category: Vorträge -->
 <!-- tags: Mitochondrium, Gehirn, Neurodegeneration, Biologie -->
 <!-- coverImage: http://www.ngib.ch/typo3temp/focuscrop/6a2a8f95f9bf21ac08deafaec27b335ed658c8d9-fp-8-3-0-0.png -->
