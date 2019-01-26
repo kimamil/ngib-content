@@ -3,6 +3,7 @@ Was steckt so alles im Altholz? Und kann man daraus denn noch was machen? Mit di
 
 Was genau flüssige Salze sind, wie sich aus den Holzbestandteilen Plastikbecher, Kohlenstofffasern und Leim machen lässt, und wie sich das Verfahren langsam vom Labor in einen industriellen Prozess entwickelt erklärt die Referentin in ihrem Vortrag.
 
+
 <!-- description: Was steckt so alles im Altholz und was kann man daraus noch alles machen? -->
 <!-- category: Vorträge -->
 <!-- tags: Holz, Chemie, Salz -->
